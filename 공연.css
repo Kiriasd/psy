@@ -1,0 +1,24 @@
+html body {
+    font-size: 22px;
+    font-weight: bold;
+    background-color: whitesmoke;
+}
+
+OL>UL {
+    display: inline-block;
+    margin : 10px;
+    color: rgb(0, 50, 150);
+}
+
+a img {
+    margin: 45px;
+}
+
+p img {
+    float: left;
+}
+
+
+p a{
+    text-decoration: none;
+}

@@ -1,0 +1,45 @@
+html {
+    background-color: whitesmoke;
+}
+
+h1{
+    align-content: center;
+}
+
+a img {
+    width: 5%;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main{
+    color: white;
+    background-color: brown;
+}
+
+.main a {
+    color: white;
+    font-weight: bold;
+}
+
+.box2 img{
+    width: auto;
+    
+}
+.box2 {
+    font: bold;
+    display: flex;
+}
+
+.box2 h2 {
+    font: bold;
+    display: block;
+}
+
+.box {
+    font: bold;
+    display: flex;
+}
